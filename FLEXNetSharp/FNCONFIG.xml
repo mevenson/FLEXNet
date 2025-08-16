@@ -1,0 +1,43 @@
+<?xml version = "1.0"?>
+    <Configuration>
+        <!-- these are for the SD Cards and floppy disk images used by the wifi pico driver -->
+        <LogReads>F</LogReads>
+        <LogWrites>F</LogWrites>
+        <TCPIP>
+            <UseTCPIP>F></UseTCPIP>
+            <SERVER_PORT>6800</SERVER_PORT>
+            <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+            <Floppy>
+                <ImageFiles>
+                    <ImageFile>EMU6800_TEST_DISKS/TESTDISK_0</ImageFile>
+                    <ImageFile>EMU6800_TEST_DISKS/TESTDISK_1</ImageFile>
+                    <ImageFile>EMU6800_TEST_DISKS/TESTDISK_2</ImageFile>
+                    <ImageFile>EMU6800_TEST_DISKS/TESTDISK_3</ImageFile>
+                </ImageFiles>
+            </Floppy>
+            <SDCard>
+                <ImageFiles>
+                    <ImageFile>EMU6800_TEST_DISKS/6800_FLEX_32GB_short</ImageFile>
+                    <Format>SDCARD</Format>
+                    <RAW>1</RAW>
+                </ImageFiles>
+            </SDCard>
+        </TCPIP>
+        <!-- these are for the floppy disk images used by the rs232 ports -->
+	    <Ports>
+          <Port num = "8">
+            <Rate>19200</Rate>
+            <CpuSpeed>F</CpuSpeed>
+            <Verbose>V</Verbose>
+            <AutoMount>T</AutoMount>
+            <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+            <ImageFiles>
+                <ImageFile>FNSRC</ImageFile>
+                <ImageFile>Compiler</ImageFile>
+                <ImageFile>6809ASMB</ImageFile>
+                <ImageFile>FLEX21SRC</ImageFile>
+            </ImageFiles>
+          </Port>
+        </Ports>
+        <Shutdown>F</Shutdown>
+	</Configuration>

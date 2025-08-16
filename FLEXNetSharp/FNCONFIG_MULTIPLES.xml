@@ -1,0 +1,46 @@
+<?xml version = "1.0"?>
+    <Configuration>
+	    <Ports>
+            <!--
+		    <Port num = "1">
+			    <Rate>19200</Rate>
+			    <CpuSpeed>F</CpuSpeed>
+			    <Verbose>N</Verbose>
+			    <AutoMount>T</AutoMount>
+			    <ImageFiles>
+				    <ImageFile>Disks/PL9_MACE</ImageFile>
+				    <ImageFile>DISKS/FLEXNET</ImageFile>
+				    <ImageFile>disks/TEST_02</ImageFile>
+				    <ImageFile>disks/TEST_03</ImageFile>
+			    </ImageFiles>
+		    </Port>
+		    <Port num = "2">
+			    <Rate>19200</Rate>
+			    <CpuSpeed>F</CpuSpeed>
+			    <Verbose>N</Verbose>
+			    <AutoMount>T</AutoMount>
+			    <ImageFiles>
+				    <ImageFile>Disks/PL9_MACE</ImageFile>
+				    <ImageFile>DISKS/FLEXNET</ImageFile>
+				    <ImageFile>disks/TEST_02</ImageFile>
+				    <ImageFile>disks/TEST_03</ImageFile>
+			    </ImageFiles>
+		    </Port>
+            -->
+          <Port num = "3">
+            <Rate>38400</Rate>
+            <CpuSpeed>F</CpuSpeed>
+            <Verbose>N</Verbose>
+            <AutoMount>T</AutoMount>
+            <ImageFiles>
+              <ImageFile>Disks/PL9_MACE</ImageFile>
+              <ImageFile>DISKS/FLEXNET</ImageFile>
+              <ImageFile>disks/TEST_02</ImageFile>
+              <ImageFile>disks/TEST_03</ImageFile>
+            </ImageFiles>
+          </Port>
+        </Ports>
+        
+        <Shutdown>F</Shutdown>
+        
+	</Configuration>

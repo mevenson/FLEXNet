@@ -1,0 +1,32 @@
+<?xml version = "1.0"?>
+    <Configuration>
+	    <Ports>
+          <Port num = "9">
+            <Rate>19200</Rate>
+            <CpuSpeed>F</CpuSpeed>
+            <Verbose>V</Verbose>
+            <AutoMount>T</AutoMount>
+            <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+            <ImageFiles>
+                <ImageFile></ImageFile>
+                <ImageFile></ImageFile>
+                <ImageFile></ImageFile>
+                <ImageFile>shared</ImageFile>
+            </ImageFiles>
+          </Port>
+            <Port num = "11">
+                <Rate>38400</Rate>
+                <CpuSpeed>F</CpuSpeed>
+                <Verbose>V</Verbose>
+                <AutoMount>T</AutoMount>
+                <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+                <ImageFiles>
+                    <ImageFile></ImageFile>
+                    <ImageFile></ImageFile>
+                    <ImageFile></ImageFile>
+                    <ImageFile>shared</ImageFile>
+                </ImageFiles>
+            </Port>
+        </Ports>
+        <Shutdown>F</Shutdown>
+	</Configuration>

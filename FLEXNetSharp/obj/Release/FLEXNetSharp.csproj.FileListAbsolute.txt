@@ -1,0 +1,12 @@
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\bin\Release\DISKS\FLEXNET.dsk
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\bin\Release\DISKS\PL9_MACE.DSK
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\bin\Release\DISKS\TEST_02.dsk
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\bin\Release\DISKS\TEST_03.dsk
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\bin\Release\FLEXNetSharp.exe.config
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\bin\Release\FLEXNetSharp.exe
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\bin\Release\FLEXNetSharp.pdb
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\obj\Release\FLEXNetSharp.exe
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\obj\Release\FLEXNetSharp.pdb
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\bin\Release\FNCONFIG.xml
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\obj\Release\FLEXNetSharp.csproj.CoreCompileInputs.cache
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNetSharp\FLEXNetSharp\obj\Release\FLEXNetSharp.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+SCC = This is a Source Code Control file.
+
+[FLEXNetSharp.sln]
+SCC_Aux_Path = POSTOAK:8877:POSTOAK_VSS
+SCC_Project_Name = $/Emulators/FLEXNetSharp
+
+[FLEXNetSharp.csproj]
+SCC_Aux_Path = POSTOAK:8877:POSTOAK_VSS
+SCC_Project_Name = $/Emulators/FLEXNetSharp/FLEXNetSharp
+
