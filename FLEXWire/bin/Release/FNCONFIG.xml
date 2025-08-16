@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+    <LogReads>T</LogReads>
+    <LogWrites>T</LogWrites>
+    <LogFilename>D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\bin\Debug\FNCONFIG.xml</LogFilename>
+    <Shutdown>F</Shutdown>
+    <!--these are for the SD Cards and floppy disk images used by the wifi pico driver-->
+    <TCPIP>
+        <UseTCPIP>T</UseTCPIP>
+        <SERVER_PORT>6800</SERVER_PORT>
+        <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+        <Floppy>
+            <Verbose>V</Verbose>
+            <ImageFiles>
+                <ImageFile>EMU6800_TEST_DISKS/TESTDISK_0</ImageFile>
+                <ImageFile>EMU6800_TEST_DISKS/TESTDISK_1</ImageFile>
+                <ImageFile>EMU6800_TEST_DISKS/TESTDISK_2</ImageFile>
+                <ImageFile>EMU6800_TEST_DISKS/TESTDISK_3</ImageFile>
+            </ImageFiles>
+        </Floppy>
+        <SDCard>
+            <Verbose>V</Verbose>
+            <ImageFiles>
+                <ImageFile>EMU6800_TEST_DISKS/6800_FLEX_32GB_short</ImageFile>
+                <ImageFile>6800_FLEX_3_SDCARD</ImageFile>
+            </ImageFiles>
+        </SDCard>
+    </TCPIP>
+    <!--these are for the floppy disk images used by the rs232 ports-->
+    <Ports>
+        <Port num="8">
+            <Rate>19200</Rate>
+            <CpuSpeed>F</CpuSpeed>
+            <Verbose>V</Verbose>
+            <AutoMount>T</AutoMount>
+            <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+            <ImageFiles>
+              <ImageFile></ImageFile>
+              <ImageFile></ImageFile>
+              <ImageFile></ImageFile>
+              <ImageFile></ImageFile>
+            </ImageFiles>
+        </Port>
+        <Port num="2">
+            <Rate>19200</Rate>
+            <CpuSpeed>F</CpuSpeed>
+            <Verbose>V</Verbose>
+            <AutoMount>T</AutoMount>
+            <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+            <ImageFiles>
+                <ImageFile></ImageFile>
+                <ImageFile></ImageFile>
+                <ImageFile></ImageFile>
+                <ImageFile></ImageFile>
+            </ImageFiles>
+        </Port>
+    </Ports>
+</Configuration>

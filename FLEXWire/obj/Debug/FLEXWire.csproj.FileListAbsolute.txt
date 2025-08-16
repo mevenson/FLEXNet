@@ -1,0 +1,12 @@
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\obj\Debug\FLEXWire.csproj.AssemblyReference.cache
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\obj\Debug\FLEXWire.frmMain.resources
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\obj\Debug\FLEXWire.Properties.Resources.resources
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\obj\Debug\FLEXWire.csproj.GenerateResource.cache
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\obj\Debug\FLEXWire.csproj.CoreCompileInputs.cache
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\bin\Debug\FLEXWire.exe.config
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\bin\Debug\FLEXWire.exe
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\bin\Debug\FLEXWire.pdb
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\obj\Debug\FLEXWire.exe
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\obj\Debug\FLEXWire.pdb
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\bin\Debug\FNCONFIG.xml
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\obj\Debug\FLEXWire.COMParameters.resources

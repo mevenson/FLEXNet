@@ -1,0 +1,48 @@
+FLEXWire END USER LICENSE AGREEMENT
+***************************************************************
+By using the accompanying software, the Customer consents to be bound by and become a party to the licensing agreement specified below.  If ALL of the terms in the license are not agreed to, please delete the software from the computer storage.
+
+GRANT OF LICENSE
+***************************************************************
+Evenson Consulting Services (ECS) hereby grants the Customer a non-exclusive license to use the Software, only in machine-readable form and subject to the terms and conditions of this Agreement.
+
+TITLE AND OWNERSHIP
+***************************************************************
+Title, ownership rights and intellectual property rights in and to the Software and any derivative works based thereon shall remain in and be the sole and exclusive property of ECS.  All trademarks, service marks, patents, copyrights, trade secrets, and other proprietary rights in or related to the Products are and will remain the exclusive property of ECS.  Customer will not take any action that jeopardizes ECS proprietary rights or acquire any right in the Products, except limited use rights specified below.  ECS will own all rights in any copy, translation, modification, adaptation or derivation or the Products, including any improvement or development thereof.  At the request of ECS, Customer will obtain the execution of any instrument that may be appropriate to assign these rights to ECS or perfect these rights in the name of ECS.
+
+PRODUCTS
+***************************************************************
+Products means: (a) the machine-readable object code version of the software that ECS makes available for license, either directly or through resellers, whether distributed on CD ROM, diskette or otherwise, (b) the published user manuals and documentation that is generally made available, (c) the related corrections, fixes and revisions that ECS may provide, subject to the MAINTENANCE section, below (the Revisions),  (d) the related enhancements and updates that ECS may provide, subject to the MAINTENANCE section, below (the Updates),  (e) the related separately-priced options and upgrades that ECS may provide, and (f) all copies of the foregoing items.  Nothing in this Agreement will entitle Customer to receive the source code of the Products, in whole or in part.
+
+LIMITED USE OF SOFTWARE
+***************************************************************
+Customer may use the Products only in and for the Customer?s own internal purposes and business operations.  Customer will not permit any other person to use the Products, whether on a time-sharing basis, remote job entry or other multiple-user arrangement.  Customer may make two back-up, archival copies of the Software and any related Revisions, Updates, or Software Upgrades.  A replacement copy of the Software will be provided in the event that Customer loses or damages the Software.  Customer will reproduce all confidentiality and proprietary notices on each of these copies and maintain an accurate record of the locations of each of these copies.  Customer may not otherwise copy, translate, modify, adapt, decompile, disassemble, or reverse engineer the Products, except as and to the extent specifically authorized by applicable law.  In no event will Customer deactivate the related security codes.
+
+TERM OF LICENSE
+***************************************************************
+The license granted under this agreement is based upon a subscription period, that is, for a limited period of time.  The subscription period is determined at the time of purchase by the Customer and may be renewed at the end of the subscription period.  This Agreement is automatically terminated if the Customer fails to comply with ANY of the terms contained herein.  The Customer may terminate this Agreement, without right to refund, by notifying ECS of such termination.  Upon termination of this Agreement for any reason, all rights granted to Customer hereunder will cease, and Customer will promptly (a) purge the Products from all Computer Systems, storage media and other files, (b) destroy the Products and all copies thereof, (c) send to ECS a letter which certifies that Customer has complied with these termination obligations.
+
+MAINTENANCE
+***************************************************************
+The Customer shall be entitled to all of the following during a valid and fully paid subscription period: (a) Support, i.e. technical assistance including telephone, fax, email and mail contact, in the proper operation of the Software, (b) Revisions and (c) Updates.  The Revisions and Updates will not include any Software Upgrades or other new Products that ECS in its sole discretion, makes generally available as a separately priced item. 
+
+DISCLAIMER OF WARRANTY
+***************************************************************
+EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, ALL WARRANTIES, CONDITIONS, REPRESENTATIONS, INDEMNITIES AND IMPLIED, ARISING BY LAW, CUSTOM, PRIOR ORAL OR WRITTEN STATEMENTS BY ECS RESELLERS OR OTHERWISE (INCLUDING, BUT NOT LIMITED TO ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT) ARE HEREBY OVERRIDDEN, EXCLUDED, AND DISCLAIMED.
+
+LIMITATIONS OF LIABILITY
+***************************************************************
+UNDER NO CIRCUMSTANCES WILL ECS OR ITS RESELLERS OR REPRESENTATIVES BE LIABLE FOR ANY CONSEQUENTIAL, INDIRECT, SPECIAL, PUNITIVE, OR INCIDENTAL DAMAGES, WHETHER FORESEEABLE OR UNFORESEEABLE, BASED ON CUSTOMER?S CLAIMS OR THOSE OF ITS CUSTOMERS (INCLUDING, BUT NOT LIMITED TO, CLAIMS FOR LOSS OF DATA, GOODWILL, PROFITS, USE OR MONEY OR USE OF THE PRODUCTS, INTERRUPTION IN USE OR AVAILABILITY OF DATA, STOPPAGE OF OTHER WORK, OR IMPAIRMENT OF OTHER ASSETS), ARISING OUR OF BREACH OR FAILURE OF EXPRESS OR IMPLIED WARRANTY, BREACH OF CONTRACT, MISREPRESENTATION, NEGLIGENCE, STRICT LIABILITY IN TORT OR OTHERWISE, EXCEPT ONLY IN THE CASE OF DEATH OR PERSONAL INJURY WHERE AND TO THE EXTENT THAT APPLICABLE LAW REQUIRES SUCH LIABILITY. IN NO EVENT WILL THE AGGREGATE LIABILITY THAT ECS OR ITS RESELLERS INCUR IN ANY ACTION OR PROCEEDING EXCEED THE TOTAL AMOUNT ACTUALLY PAID BY CUSTOMER FOR THE SPECIFIC PRODUCT THAT DIRECTLY CAUSED THE DAMAGE.  THIS SECTION WILL NOT APPLY ONLY WHEN AND TO THE EXTENT THAT APPLICABLE LAW SPECIFICALLY REQUIRES LIABILITY DESPITE THE FOREGOING EXCLUSIONS AND LIMITATIONS.
+
+U.S. EXPORT RESTRICTIONS
+***************************************************************
+Customer acknowledges that the Products and all related technical information, documents and materials are subject to export controls under the U.S. Export Administration Regulations.  Customer will (a) comply strictly with all legal requirements established under these controls, (b) cooperate fully with ECS or its resellers, in any official or unofficial audit or inspection that relates to these controls and (c) not export, re-export, divert or transfer, directly or indirectly, any such items or direct Products to any restricted country or region listed in the U.S. Export Administration Regulation.
+
+INSPECTION
+***************************************************************
+During the term of this Agreement, ECS or its representative may, upon reasonable prior notice to Customer, inspect all files, computer processors, equipment, and facilities of Customer during normal business hours to verify Customer?s compliance with this Agreement.  While conducting such inspection, ECS or its representatives will be entitled to copy any item that Customer may posses in violation of this Agreement.
+
+MISCELLANEOUS
+***************************************************************
+Customer shall not assign, delegate, or otherwise transfer this Agreement or any of its rights or obligations hereunder without ECS prior approval.  All notices or approvals required or permitted under this Agreement must be given in writing.  Any waiver or modification of this Agreement will not be effective unless executed in writing and signed by both parties.  This Agreement will bind Customer?s successors-in-interest.  This agreement will be governed by and interpreted in accordance with the laws of the country of the Customer?s place of business and usage of the software.  If any provision of this Agreement is held to be unenforceable, in whole or in part, such holding will not affect the validity of the other provisions of this Agreement.  This Agreement constitutes the complete and entire statement of all conditions and representations of the Agreement between ECS and Customer with respect to its subject matter.
+

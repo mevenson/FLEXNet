@@ -1,0 +1,7 @@
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\MakeROMForCForEmu6800\obj\Debug\MakeROMForCForEmu6800.csproj.AssemblyReference.cache
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\MakeROMForCForEmu6800\obj\Debug\MakeROMForCForEmu6800.csproj.CoreCompileInputs.cache
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\MakeROMForCForEmu6800\bin\Debug\MakeROMForCForEmu6800.exe.config
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\MakeROMForCForEmu6800\bin\Debug\MakeROMForCForEmu6800.exe
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\MakeROMForCForEmu6800\bin\Debug\MakeROMForCForEmu6800.pdb
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\MakeROMForCForEmu6800\obj\Debug\MakeROMForCForEmu6800.exe
+D:\354341-LMDBSERV\ECS\Emulators\FLEXWire\MakeROMForCForEmu6800\obj\Debug\MakeROMForCForEmu6800.pdb
