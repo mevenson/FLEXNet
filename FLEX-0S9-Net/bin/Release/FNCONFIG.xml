@@ -1,0 +1,32 @@
+<?xml version = "1.0"?>
+    <Configuration>
+	    <Ports>
+          <Port num = "8">
+            <Rate>19200</Rate>
+            <CpuSpeed>F</CpuSpeed>
+            <Verbose>V</Verbose>
+            <AutoMount>T</AutoMount>
+            <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+            <ImageFiles>
+              <ImageFile>PLIST-FORMAT-6809</ImageFile>
+              <ImageFile></ImageFile>
+              <ImageFile></ImageFile>
+              <ImageFile></ImageFile>
+            </ImageFiles>
+          </Port>
+          <Port num = "2">
+            <Rate>19200</Rate>
+            <CpuSpeed>F</CpuSpeed>
+            <Verbose>V</Verbose>
+            <AutoMount>T</AutoMount>
+            <DefaultDirectory>D:/DefaultPath/DISKS</DefaultDirectory>
+            <ImageFiles>
+                <ImageFile>PLIST-FORMAT-6809</ImageFile>
+                <ImageFile></ImageFile>
+                <ImageFile></ImageFile>
+                <ImageFile></ImageFile>
+            </ImageFiles>
+          </Port>
+        </Ports>
+      <Shutdown>F</Shutdown>
+	</Configuration>

@@ -1,0 +1,12 @@
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\bin\Debug\FNCONFIG.xml
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\bin\Debug\DISKS\FLEXNET.dsk
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\bin\Debug\DISKS\PL9_MACE.DSK
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\bin\Debug\DISKS\TEST_02.dsk
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\bin\Debug\DISKS\TEST_03.dsk
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\bin\Debug\FLEX-0S9-Net.exe.config
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\bin\Debug\FLEX-0S9-Net.exe
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\bin\Debug\FLEX-0S9-Net.pdb
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\obj\Debug\FLEX-0S9-Net.csproj.CoreCompileInputs.cache
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\obj\Debug\FLEX-0S9-Net.exe
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\obj\Debug\FLEX-0S9-Net.pdb
+D:\354341-LMDBSERV\ECS\Emulators\FLEXNet.Net\FLEX-0S9-Net\obj\Debug\FLEX-0S9-Net.csproj.AssemblyReference.cache
